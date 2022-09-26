@@ -1,4 +1,7 @@
-### Objetivos
+# Que es esta Repo?
+Esta repo esta destinada a la integración de alumnos de diversos cursos del nivel secundario de la institución a la que pertenecemos hacia el area de robóica de la misma junto con la búsqeda de un integrante para el grupo que esta trabajando en los proyectos actuales.
+
+# Objetivos
 
 - Promover el interès por la robòtica dentro de la instiuciòn.
 - Acercar alumnos interesados unos a otros, uniendo gente con mismos intereses.
