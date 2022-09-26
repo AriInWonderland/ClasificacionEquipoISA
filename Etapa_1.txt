@@ -5,7 +5,7 @@ Esta es la primera etapa, en la cual invitamos a todos los interesados en partic
 No se asusten, no será nada imposible, pero tal vez requiera un poco de lógica,
 así que sin mayor dilación vallamos a la consigna:
 
-Crear un programa en su lenguaje de preferencia, el cual muestre los números del 1 al 100
+Crear un programa en su lenguaje de preferencia, el cual muestre TODOS los números del 1 al 100
 pero, con una ligera particularidad, si el número es divisible por 3 en lugar de este se
 mostrará Fizz si es múltiplo de 5 será Buzz y, si es divisible por ambos, FizzBuzz.
 
@@ -39,3 +39,5 @@ Fizz
 13
 14
 FizzBuzz
+
+El codigo deberia seguir de igual manera hasta llegar al 100.
