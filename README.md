@@ -22,11 +22,7 @@ La segunda etapa consiste en encender una fuente de computadora sin esta encontr
 - 4 - ???
 Las ultimas dos etapas se revelaràn con el avance de la travesìa...
 
-**Tabla de contenidos**
 
-[TOCM]
-
-[TOC]
 
 #Links
 
