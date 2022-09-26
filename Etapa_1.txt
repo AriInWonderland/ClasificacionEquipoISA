@@ -18,3 +18,24 @@ como siempre, todo esta a una búsqueda de distancia.
 
 Mucha suerte a todos,
 												- Arif Zabrana.
+												
+Por favor agregar algun distintivo en algun lugar o, simplemente decir su username al acercarse a nosotros.
+Ademas de esto aca dejo una especie de muestra del output que deberia dar el programa, lo siento por no ser
+mas claro en esto, le agradezco a Ag3nte47nck por hacerme notar este despiste.
+
+Output ejemplo:
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
