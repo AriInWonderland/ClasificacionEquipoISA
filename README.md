@@ -20,6 +20,7 @@ En esta etapa se realizarà una pull request a esta repo para la posterior evalu
 La segunda etapa consiste en encender una fuente de computadora sin esta encontrarse en un gabinete. En esta etapa participaràn los ganadores de la anterior en el taller de informàtica bajo superviciòn del grupo actual.
 - 3 - ???
 - 4 - ???
+
 Las ultimas dos etapas se revelaràn con el avance de la travesìa...
 
 
