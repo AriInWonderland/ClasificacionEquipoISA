@@ -13,7 +13,7 @@ Actualmente se estan llevando a cabo dos proyectos diferentes, los cuales consta
 # Como pueden participar?
 Como ya se dijo antes esto se centra en una competencia de cuatro etapas, de las cuales cualquier alumno de la instituciòn que se encuentre cursando entre el tercer y sexto año de secundaria podrà participar realizando una "pull request". Llegada la fecha final, (aùn no estipulada), se llamaràn a los participantes para la evaluaciòn de la primer etapa.
 
-#En que consisten las cuatro etapas?
+# En que consisten las cuatro etapas?
 - 1 - FizzBuzz
 En esta etapa se realizarà una pull request a esta repo para la posterior evaluaciòn a mano de los actuales integrantes del grupo.
 - 2 - Encerder una fuente.
